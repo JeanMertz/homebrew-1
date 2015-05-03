@@ -2,8 +2,8 @@ require "formula"
 
 class Fleetctl < Formula
   homepage "https://github.com/coreos/fleet"
-  url "https://github.com/coreos/fleet/archive/v0.10.0.tar.gz"
-  sha256 "024b29cb217a81d04a48e6e5017549149fccfe76042a3570e9a3b8206cefcf48"
+  url "https://github.com/coreos/fleet/archive/v0.10.1.tar.gz"
+  sha256 "d660415e1226f33b114bab9e1c7e18fc0c62a535c71887c7d1e6ad6f0bb0cd36"
   head "https://github.com/coreos/fleet.git"
 
   bottle do
